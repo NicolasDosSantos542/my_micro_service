@@ -1,0 +1,12 @@
+{
+    "name": "nico/messages",
+    "authors": [
+        {
+            "name": "Nicolas",
+            "email": "nicolas.de-meyere-dos-santos@epitech.eu"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.9"
+    }
+}
